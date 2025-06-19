@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-socketio[asyncio_server]
+keras
+tensorflow
+numpy
+pillow
+opencv-python
+python-multipart
+aiofiles
