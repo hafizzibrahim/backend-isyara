@@ -9,7 +9,7 @@ from collections import defaultdict, deque
 logger = logging.getLogger(__name__)
 
 # Load model dan label hanya sekali (global)
-MODEL_PATH = "models/sibi_modifikasi.h5"
+MODEL_PATH = "models/sibi.h5"
 LABEL_PATH = "models/label.txt"
 
 model = load_model(MODEL_PATH)
